@@ -2,17 +2,23 @@
   "name": "ow-the-edge",
   "version": "0.1.0",
   "private": true,
+  "description": "Find which cards are compatible with Rescue Hedgehog",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.3.8",
+    "bootswatch": "^5.3.8",
     "react": "^19.2.0",
+    "react-bootstrap": "^2.10.10",
     "react-dom": "^19.2.0",
-    "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://pikashi974.github.io/ow-the-edge",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -35,5 +41,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "author": "Jeremy Payet",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "react-scripts": "^5.0.1"
   }
 }
