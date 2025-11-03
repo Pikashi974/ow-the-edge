@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ow-the-edge/static/css/main.e3835e22.css",
+    "main.js": "/ow-the-edge/static/js/main.6fcaa16b.js",
+    "static/js/453.bcd01a37.chunk.js": "/ow-the-edge/static/js/453.bcd01a37.chunk.js",
+    "static/media/Rescue Hedgehog.jpg": "/ow-the-edge/static/media/Rescue Hedgehog.d993b5930ad917156361.jpg",
+    "index.html": "/ow-the-edge/index.html",
+    "main.e3835e22.css.map": "/ow-the-edge/static/css/main.e3835e22.css.map",
+    "main.6fcaa16b.js.map": "/ow-the-edge/static/js/main.6fcaa16b.js.map",
+    "453.bcd01a37.chunk.js.map": "/ow-the-edge/static/js/453.bcd01a37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3835e22.css",
+    "static/js/main.6fcaa16b.js"
+  ]
+}
