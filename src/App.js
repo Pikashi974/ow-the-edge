@@ -573,7 +573,7 @@ function App() {
                   className="col-sm-1 col-form-label"
                   htmlFor="typeStatsInput"
                 >
-                  Type:
+                  Attribute:
                 </label>
                 <div className="col-sm-2">
                   <select
